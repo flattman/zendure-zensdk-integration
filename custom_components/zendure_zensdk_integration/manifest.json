@@ -1,0 +1,10 @@
+{
+  "domain": "zendure_zensdk_integration",
+  "name": "Zendure ZenSDK Integration",
+  "documentation": "https://github.com/flattman/zendure-zensdk-integration",
+  "issue_tracker": "https://github.com/flattman/zendure-zensdk-integration/issues",
+  "dependencies": [],
+  "config_flow": true,
+  "codeowners": ["@flattman"],
+  "requirements": ["zeroconf"]
+}
